@@ -86,10 +86,10 @@ No,Kabupaten,2014,2015,2016,2017,2018,parent_province_id,parent_province_name
 85,Kab. Kepulauan Meranti,4599,3147,3820,3873,2070,4,Riau
 86,Kota Pekan Baru,10,10,9,7,14,4,Riau
 87,Kota Dumai,301,296,70,70,57,4,Riau
-88,Kerinci,16.935,20.780,17.742,18.042,14.907,5,Jambi
+88,Kerinci,16.935,20.78,17.742,18.042,14.907,5,Jambi
 89,Merangin,8.579,8.658,9.584,12.633,11.038,5,Jambi
-90,Sarolangun,6.607,5.177,5.621,5.629,4.850,5,Jambi
-91,Batang Hari,8.947,8.645,8.940,8.145,8.269,5,Jambi
+90,Sarolangun,6.607,5.177,5.621,5.629,4.85,5,Jambi
+91,Batang Hari,8.947,8.645,8.94,8.145,8.269,5,Jambi
 92,Muaro Jambi,11.208,10.613,10.617,10.865,9.562,5,Jambi
 93,Tanjung Jabung Timur,22.108,16.068,17.421,17.145,28.523,5,Jambi
 94,Tanjung Jabung Baral,11.785,9.837,9.491,7.792,19.197,5,Jambi
@@ -222,10 +222,10 @@ No,Kabupaten,2014,2015,2016,2017,2018,parent_province_id,parent_province_name
 220,Kota Semarang,3179,3368,2679,2434,2387,13,Jawa Tengah
 221,Kota Pekalongan,1018,996,992,980,940,13,Jawa Tengah
 222,Kota Tegal,687,609,610,610,521,13,Jawa Tengah
-223,Kulon Progo                ,10143,9806,10164,10038                   11053,11053,14,DI Yogyakarta
-224,Bantul,14129,14116,14067                   14303                   14857,14303                   14857,14857,14,DI Yogyakarta
-225,Gunung Kidul             ,7854,7718                   7862                     7861                   31896,7862                     7861                   31896,7861,31896,14,DI Yogyakarta
-226,Sleman    ,22230,21 856                   ,21834,19083,18129,14,DI Yogyakarta
+223,Kulon Progo                ,10143,9806,10164,10038,11053,14,DI Yogyakarta
+224,Bantul,14129,14116,14067,14303,14857,14,DI Yogyakarta
+225,Gunung Kidul             ,7854,7718,7862,7861,31896,14,DI Yogyakarta
+226,Sleman    ,22230,21856,21834,19083,18129,14,DI Yogyakarta
 227,Kota Yogyakarta,61,57,58,58,55,14,DI Yogyakarta
 228,Pacitan,12418,12303,12411,12689,12707,15,Jawa Timur
 229,Ponorogo,34338,34352,34547,34536,35676,15,Jawa Timur
