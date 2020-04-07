@@ -86,33 +86,32 @@ No,Kabupaten,2014,2015,2016,2017,2018,parent_province_id,parent_province_name
 85,Kab. Kepulauan Meranti,4599,3147,3820,3873,2070,4,Riau
 86,Kota Pekan Baru,10,10,9,7,14,4,Riau
 87,Kota Dumai,301,296,70,70,57,4,Riau
-88,Kerinci,16.935,20.78,17.742,18.042,14.907,5,Jambi
-89,Merangin,8.579,8.658,9.584,12.633,11.038,5,Jambi
-90,Sarolangun,6.607,5.177,5.621,5.629,4.85,5,Jambi
-91,Batang Hari,8.947,8.645,8.94,8.145,8.269,5,Jambi
-92,Muaro Jambi,11.208,10.613,10.617,10.865,9.562,5,Jambi
-93,Tanjung Jabung Timur,22.108,16.068,17.421,17.145,28.523,5,Jambi
-94,Tanjung Jabung Baral,11.785,9.837,9.491,7.792,19.197,5,Jambi
-95,Tebo,4.651,4.979,7.537,7.511,4.398,5,Jambi
-96,Bungo,4.775,4.909,5.436,5.705,5.383,5,Jambi
-97,Kota Jambi,1.388,974,1.006,1.029,1.096,5,Jambi
-98,Kota Sungai Peruh,4.212,4.095,3.194,3.194,3.923,5,Jambi
+88,Kerinci,16,935,20,780,17,742,18,042,14,907,5,Jambi
+89,Merangin,8,579,8,658,9,584,12,633,11,038,5,Jambi
+90,Sarolangun,6,607,5,177,5,621,5,629,4,850,5,Jambi
+91,Batang Hari,8,947,8,645,8,940,8,145,8,269,5,Jambi
+92,Muaro Jambi,11,208,10,613,10,617,10,865,9,562,5,Jambi
+93,Tanjung Jabung Timur,22,108,16,068,17,421,17,145,28,523,5,Jambi
+94,Tanjung Jabung Baral,11,785,9,837,9,491,7,792,19,197,5,Jambi
+95,Tebo,4,651,4,979,7,537,7,511,4,398,5,Jambi
+96,Bungo,4,775,4,909,5,436,5,705,5,383,5,Jambi
+97,Kota Jambi,1,388,974,1,006,1,029,1,096,5,Jambi
+98,Kota Sungai Peruh,4,212,4,095,3,194,3,194,3,923,5,Jambi
 99,Ogan Komering Ulu,5519,5332,5731,5739,1725,6,Sumatera Selatan
 100,Ogan Komering lilr,125624,122602,115639,123192,51591,6,Sumatera Selatan
 101,Muara Enim,23542,24410,25349,21402,12997,6,Sumatera Selatan
 102,Lahal,17411,16879,18017,19211,12325,6,Sumatera Selatan
 103,Musi Rawas,19442,20158,22640,23411,12412,6,Sumatera Selatan
 104,Musi Banyuasin,49382,50561,50138,51228,28140,6,Sumatera Selatan
-105,Banyuasin,"194.709                 
-",197961,192330,192684,153471,6,Sumatera Selatan
+105,Banyuasin,194709,197961,192330,192684,153471,6,Sumatera Selatan
 106,OKUSelalan,17753,17881,17932,17954,6761,6,Sumatera Selatan
 107,OKU Timur,77639,79666,80820,77315,58209,6,Sumatera Selatan
 108,Ogan llir,48985,47242,47693,49631,29514,6,Sumatera Selatan
-109,Empal Lawang     ,12297,13554,13554,13554,8414,6,Sumatera Selatan
+109,Empal Lawang,12297,13554,13554,13554,8414,6,Sumatera Selatan
 110,Penukal Abab Lemalang llir ,5847,5814,6912,7964,1952,6,Sumatera Selatan
-111,Musi Rawas Ulara                                             ,6944,6944,6974,6974,1603,6,Sumatera Selatan
-112,Kota Palembang                                             ,5840,584,5734,5938,3181,6,Sumatera Selatan
-113,Kota Prabumulih                                               ,500,525,450,450,162,6,Sumatera Selatan
+111,Musi Rawas Ulara,6944,6944,6974,6974,1603,6,Sumatera Selatan
+112,Kota Palembang,5840,584,5734,5938,3181,6,Sumatera Selatan
+113,Kota Prabumulih,500,525,450,450,162,6,Sumatera Selatan
 114,Kota Pagar Alam,3412,3412,3392,3340,3646,6,Sumatera Selatan
 115,Kota Lubuk Linggau,1907,1851,1879,1916,1134,6,Sumatera Selatan
 116,Bengkulu Selatan,10580,9416,9887,10653,9983,7,Bengkulu
@@ -153,10 +152,10 @@ No,Kabupaten,2014,2015,2016,2017,2018,parent_province_id,parent_province_name
 151,Lingga,0,0,51,72,150,10,Kepulauan Riau
 152,Kepulauan Anambas,137,59,56,56,384,10,Kepulauan Riau
 153,Kota Batam,0,0,0,0,0,10,Kepulauan Riau
-154,Kota Tanjung Pinang                                          ,0,0,0,0,0,10,Kepulauan Riau
+154,Kota Tanjung Pinang,0,0,0,0,0,10,Kepulauan Riau
 155,Kepulauan Seribu,0,0,0,0,0,11,DKI Jakarta
 156,Kota Jakarta Selatan,0,0,0,0,0,11,DKI Jakarta
-157,Kota Jakarta Timur                                         ,104,74,74,74,117,11,DKI Jakarta
+157,Kota Jakarta Timur,104,74,74,74,117,11,DKI Jakarta
 158,Kota Jakarta Pusat,0,0,0,0,0,11,DKI Jakarta
 159,Kota Jakarta Barat,146,116,99,89,0,11,DKI Jakarta
 160,Kota Jakarta Utara,528,460,408,408,334,11,DKI Jakarta
@@ -389,10 +388,10 @@ No,Kabupaten,2014,2015,2016,2017,2018,parent_province_id,parent_province_name
 387,Banggai,22668,23730,24386,25099,21836,26,Sulawesi Tengah
 388,Morowali,5446,5848,5940,6020,5180,26,Sulawesi Tengah
 389,P o s o,20907,12027,17360,19031,12057,26,Sulawesi Tengah
-390,Donggala,14246,12638,12646                   12987                   10637,12987,10637,26,Sulawesi Tengah
+390,Donggala,14246,12638,1264612987,10637,26,Sulawesi Tengah
 391,Toli Toli,13616,13397,13443,13366,12594,26,Sulawesi Tengah
-392,B u o I,5258,5001,3994                      4468                      5419,4468,5419,26,Sulawesi Tengah
-393,Parigi Moutong,30133,27638,27258,27331                   22740,22740,26,Sulawesi Tengah
+392,B u o I,5258,5001,3994,4468,5419,26,Sulawesi Tengah
+393,Parigi Moutong,30133,27638,27258,22740,26,Sulawesi Tengah
 394,Tojo Una-Una,2008,1101,1509,1513,1214,26,Sulawesi Tengah
 395,Sigi,17882,16905,15435,15117,20723,26,Sulawesi Tengah
 396,Banggai Laut,0,0,0,0,2,26,Sulawesi Tengah
@@ -513,4 +512,4 @@ No,Kabupaten,2014,2015,2016,2017,2018,parent_province_id,parent_province_name
 511,Dogiyayi,0,0,0,0,0,34,Papua
 512,lntan Jaya,0,0,0,0,0,34,Papua
 513,Deiyai,0,0,0,0,0,34,Papua
-514,Kota Jayapura                                        ,740,740,740,740,709,34,Papua
+514,Kota Jayapura,740,740,740,740,709,34,Papua
